@@ -25,3 +25,4 @@ Cogman is exposed as a black-box system; internal mechanisms are not included.
 
 ## Status
 Available for technical evaluation and integration discussion.
+**Contact:** creator@cogmanframework.com
